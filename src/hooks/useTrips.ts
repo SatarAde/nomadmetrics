@@ -1,5 +1,4 @@
 import { useState, useMemo } from "react";
-import { Trip } from "../types";
 import { trips } from "../data/travelData";
 
 type FilterStatus = "all" | "completed" | "upcoming" | "planning";
