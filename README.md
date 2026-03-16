@@ -1,4 +1,6 @@
 # 📍 NomadMetrics
+## Live Demo
+http://nomadmetrics-app.s3-website-us-east-1.amazonaws.com
 
 A travel analytics dashboard for tracking trips, spending and destinations across the world.
 
@@ -13,7 +15,7 @@ Monthly spend chart
 Trip tracker with filter and search
 Analytics breakdown by category
 
-Runs locally
+Run locally
 bashnpm install
 npm run dev
 
