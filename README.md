@@ -1,6 +1,6 @@
 # 📍 NomadMetrics
 ## Live Demo
-http://nomadmetrics-app.s3-website-us-east-1.amazonaws.com
+https://main.d7sdkydn2d6q3.amplifyapp.com
 
 A travel analytics dashboard for tracking trips, spending and destinations across the world.
 
